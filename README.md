@@ -7,7 +7,6 @@
 - Version control basics
 - What are some of the basic terms
 - Use cases for how folks use GitHub
-- Anatomy of an open source project
 
 ## Getting started with GitHub
 - Version control basics
@@ -15,6 +14,7 @@
 - Creating a new repo
 - Interface walk-through demo
 - Creating, merging branches
+- Your first commit
 - Tips
 
 ## Getting collaborative with GitHub
@@ -23,6 +23,7 @@
 - Forking and branching
 - Submitting your first pull request 
 - Reviewing and merging pull requests as the project maintainer
+- Anatomy of an open source project
 - Issues & projects
 - Tips
 
