@@ -1,7 +1,7 @@
 # github-techtalk
 
 
-## Getting friendly with GitHub
+## #1. Getting friendly with GitHub
 - What is GitHub
 - How is it different from Git
 - Version control basics
