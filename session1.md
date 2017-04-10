@@ -1,11 +1,17 @@
-## #1. Getting friendly with GitHub
+## #1. Get to Know Version Control with GitHub
 
--What is GitHub  
--How is it different from Git  
--Version control basics  
--What are some of the basic terms  
--Use cases for how folks use GitHub  
--Exploring the GitHub ecosystem  
--GitHub quick wins  
--Markdown highlights  
--A look at issues & projects  
+- Title slide 
+- Agenda
+- Version control basics  
+- What is GitHub  
+- How is it different from Git  
+- What are some of the basic terms  
+- Use cases for how folks use GitHub  
+   * Documentation/writing  
+   * Project management  
+   * Creating a [map](https://github.com/blog/1528-there-s-a-map-for-that)  
+- Exploring the GitHub ecosystem  
+- GitHub quick wins  
+- Markdown highlights  
+- A look at issues & projects  
+- Key takeaways
