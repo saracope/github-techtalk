@@ -1,16 +1,13 @@
 # github-techtalk
 
 
-## #1. Getting friendly with GitHub
-- What is GitHub
-- How is it different from Git
-- Version control basics
-- What are some of the basic terms
-- Use cases for how folks use GitHub
-- Exploring the GitHub ecosystem
-- GitHub quick wins
-- Markdown highlights
-- A look at issues & projects
+## #1. Get to Know Version Control with GitHub
+[x] Create outline; done [here](https://github.com/saracope/github-techtalk/blob/master/session1.md)  
+[ ] Draft version 1 of slides  
+[ ] Send for review/eyes on  
+[ ] Finalize after feedback  
+[ ] Writeup marketing collateral  
+[ ] Post slides and registration link  
 
 ## Getting started with GitHub
 - Version control basics
