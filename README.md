@@ -2,12 +2,12 @@
 
 
 ## #1. Get to Know Version Control with GitHub
-[x] Create outline; done [here](https://github.com/saracope/github-techtalk/blob/master/session1.md)  
-[ ] Draft version 1 of slides  
-[ ] Send for review/eyes on  
-[ ] Finalize after feedback  
-[ ] Writeup marketing collateral  
-[ ] Post slides and registration link  
+- [x] Create outline; done [here](https://github.com/saracope/github-techtalk/blob/master/session1.md)  
+- [ ] Draft version 1 of slides  
+- [ ] Send for review/eyes on  
+- [ ] Finalize after feedback  
+- [ ] Writeup marketing collateral  
+- [ ] Post slides and registration link  
 
 ## Getting started with GitHub
 - Version control basics
