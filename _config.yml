@@ -1,0 +1,17 @@
+# Site settings
+title: GSA Digital Service Slides
+email: sara.cope@gsa.gov
+
+description: > # this means to ignore newlines until "baseurl:"
+  Slide decks for GSA Digital Service!
+
+baseurl: "/slides"
+url: 
+
+# Build settings
+markdown: redcarpet
+
+collections:
+  slides:
+    output: true
+    permalink: "/:path/"
