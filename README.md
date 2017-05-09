@@ -1,63 +1,50 @@
-# github-techtalk
+## This repo is home to the slides for a TechTalk presentation made by Sara Cope on 5/9/2017 for GSA IT staff. Feel free to remix and reuse.
 
+# Title: Get to Know Version Control with GitHub
+### Description: This talk is meant as a friendly introduction to version control and GitHub.
 
-## #1. Get to Know Version Control with GitHub
-- [x] Create outline; done [here](https://github.com/saracope/github-techtalk/blob/master/session1.md)  
-- [ ] Draft version 1 of slides  
-- [ ] Send for review/eyes on  
-- [ ] Finalize after feedback  
-- [ ] Writeup marketing collateral  
-- [ ] Post slides and registration link  
+Item                    | Requirement
+---                     | ---
+Session time            | 30 minutes + time for questions
+Intended Audience       | GSA IT staff who have no or basic knowledge of version control and GitHub
+Pre-requisite knowledge | None
+Materials               | None
+Delivery medium         | Remote and synchronous
 
-## Getting started with GitHub
-- Version control basics
-- Overview of GitHub Flow
-- Creating a new repo
-- Interface walk-through demo
-- Creating, merging branches
-- Your first commit
-- Tips
+## Learning Outcomes
 
-## Getting collaborative with GitHub
-- GitHub user roles for projects
-- Refresh of GitHub Flow
-- Forking and branching
-- Submitting your first pull request 
-- Reviewing and merging pull requests as the project maintainer
-- Anatomy of an open source project
-- Issues & projects
-- Tips
+By the end of this lesson, attendees will be able to:
 
-## Project communication in GitHub
-- Clear communication benefits everyone
-- Understanding your audience
-- Overall best practices
-- Creating consistent messaging
-- Flesh out your wiki
-- Planning your project with roadmaps and milestones
-- What to include in your Readme
-- Set expectations with a Code of Conduct
-- Creating a clear pathway for contributors
-- Anatomy of a good commit
+- Give a short explanation of version control
+- Explain the difference between Git and GitHub
+- Understand the basic offerings of GitHub and how these can be used for different projects
+- Follow GSA policy for GitHub accounts
 
-## Care and feeding of your open source project
-- Know your community
-- Create and communicate goals and expectations
-- Communication channels
-- Response times
-- Metrics matter
-- Creating a positive experience for your contributors
-- Encountering and addressing toxic personalities
-- Dealing with burnout
-- Forming your squad
+## Set Up
 
-## Quick start guide to becoming an open source contributor
-- But why tho
-- Contribute without code
-- Finding a project that's right for you
-- Do your research, look at the history, culture, organization, etiquette 
-- Get to know the standard operating procedures, people, tools
-- Start with Issues
-- Look for easy wins
-- Contributing the right way
-- You did it! Now what?
+There is no required setup for this session.
+
+## Materials
+
+GSA policy and SOP for GitHub.
+
+## Outline
+
+Time        | Topic
+---         | ---
+1 | Topic introduction
+1 | Review agenda
+3 | Intro scenarios
+2 | Version control basics  
+2 | Version control types
+1 | What is Git
+1 | What is GitHub  
+1 | How is GitHub different from Git  
+1 | What are some of the basic terms  
+5 | GitHub flow by way of burgers
+5 | Use cases for how folks use GitHub in GSA and around gov
+3 | Exploring the GitHub ecosystem  
+1 | GSA policy for GitHub accounts
+1 | Training resources
+1 | Next steps
+1 | Closing
