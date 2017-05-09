@@ -1,5 +1,7 @@
-## This repo is home to the slides for a TechTalk presentation made by Sara Cope on 5/9/2017 for GSA IT staff. Feel free to remix and reuse.
+### This repo is home to the slides for a TechTalk presentation made by Sara Cope on 5/9/2017 for GSA IT staff. Feel free to remix and reuse.
+Slides are available to [view in your browser](https://saracope.github.io/github-techtalk/#/). Hint: use your spacebard to navigate within the slides.
 
+---
 # Title: Get to Know Version Control with GitHub
 ### Description: This talk is meant as a friendly introduction to version control and GitHub.
 
