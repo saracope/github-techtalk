@@ -1,0 +1,16 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "github-techtalk",
+  "scripts": {
+  },
+  "stack": "heroku-24"
+}
