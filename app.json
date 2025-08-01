@@ -1,0 +1,30 @@
+{
+  "addons": [
+    "scheduler"
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ],
+  "description": "for fun",
+  "env": {
+    "SARA": {
+      "required": true
+    },
+    "test": {
+      "required": true
+    },
+    "TEST": {
+      "required": true
+    }
+  },
+  "formation": {
+  },
+  "name": "github-techtalk",
+  "scripts": {
+    "postdeploy": "bin/setup",
+    "pr-predestroy": "bin/teardown"
+  },
+  "stack": "heroku-24"
+}
