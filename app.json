@@ -1,0 +1,25 @@
+{
+  "addons": [
+    "scheduler"
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+    "SARA": {
+      "required": true
+    },
+    "test": {
+      "required": true
+    },
+    "TEST": {
+      "required": true
+    }
+  },
+  "formation": {
+  },
+  "name": "github-techtalk",
+  "scripts": {
+  },
+  "stack": "heroku-24"
+}
