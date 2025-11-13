@@ -1,0 +1,30 @@
+{
+  "addons": [
+    "connectqa",
+    "connectqa",
+    "herokuconnect",
+    "heroku-postgresql"
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ],
+  "description": "testing",
+  "env": {
+    "test": {
+      "required": true
+    },
+    "tester": {
+      "generator": "secret"
+    }
+  },
+  "formation": {
+  },
+  "name": "github-techtalk",
+  "scripts": {
+    "postdeploy": "bin/setup",
+    "pr-predestroy": "bin/teardown"
+  },
+  "stack": "heroku-24"
+}
